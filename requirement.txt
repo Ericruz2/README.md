@@ -1,0 +1,5 @@
+#Añadir librerias
+
+pandas
+plotly-express
+streamlit
